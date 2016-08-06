@@ -1,0 +1,29 @@
+_repo: What-to-See-in-England--13-A-Guide-to-Places-of-Historic-Interest-Natural-Beauty-or-Literary-__11642
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Home, Gordon
+    alias: Home, Gordon Cochrane
+    birthdate: 1878
+    deathdate: 1969
+    gutenberg_agent_id: '2778'
+    url: http://www.gutenberg.org/2009/agents/2778
+    wikipedia: http://en.wikipedia.org/wiki/Gordon_Home
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11642'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'England -- Guidebooks'
+- !lcsh 'Wales -- Guidebooks'
+- GITenberg
+title: "What to See in England\r\nA Guide to Places of Historic Interest, Natural\
+  \ Beauty or Literary Association"
+url: http://www.gutenberg.org/ebooks/11642
